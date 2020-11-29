@@ -1,8 +1,9 @@
 # ATCsimROS
 TFG Daniel García Herriaz ETSIT, URJC. Madrid 2020
 
-REQUISITOS: 
-C++ compiler, ROS and its 'Kinetic Kame' distribution are necesary.
+REQUIREMENTS: 
+
+C++ compiler, ROS and its 'Kinetic Kame' distribution are required.
 
 To create a workspace
   /catkin_ws/src
